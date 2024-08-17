@@ -1,5 +1,5 @@
 document.querySelector("h1").addEventListener("click", function () {
-    alert("±ğ´ÁÎÒ£¬ÎÒÅÂÌÛ¡£");
+    alert("åˆ«æˆ³æˆ‘ï¼Œæˆ‘æ€•ç–¼");
   });
 let myImage=document.querySelector('img');
 myImage.onclick=function(){
